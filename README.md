@@ -24,6 +24,8 @@ Ideal para organizar pequenas tarefas ou ideias rápidas.
 - CSS
 - JavaScript  
 
+
+<!-- 
 ---
 
 ## 📋 Instalação (Modo Desenvolvedor)
@@ -33,3 +35,4 @@ Para testar a extensão no seu navegador:
 1. Clone este repositório:
    ```bash
    git clone git@github.com:Gleika-Almeida/lembretes.git
+-->
